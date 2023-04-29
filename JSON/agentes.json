@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jett",
+    "pais": "Corea del Sur",
+    "rol": "duelista",
+    "habilidades": [
+      "Ráfaga Ascendente",
+      "Impulso Ciclón",
+      "Nube Explosiva",
+      "Tormenta de cuchillas"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Raze",
+    "pais": "Brasil",
+    "rol": "duelista",
+    "habilidades": [
+      "Paquete explosivo",
+      "Carcasas de pintura",
+      "Bumbot",
+      "Tumbadivas"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Breach",
+    "pais": "Suecia",
+    "rol": "iniciador",
+    "habilidades": [
+      "Fulgor",
+      "Falla Sísmica",
+      "Réplica",
+      "Trueno Rodante"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Omen",
+    "pais": null,
+    "rol": "controlador",
+    "habilidades": [
+      "Paranoia",
+      "Manto Oscuro",
+      "Paso Encubierto",
+      "Desde las sombras"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Brimstone",
+    "pais": "Estados Unidos",
+    "rol": "controlador",
+    "habilidades": [
+      "La Incendiaria",
+      "Humo Celestial",
+      "Baliza Potenciadora",
+      "Ataque Orbital"
+    ]
+  }
+]
