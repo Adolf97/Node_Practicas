@@ -45,4 +45,4 @@ const realizarPedido = async(producto) => {
     }
 }
 
-realizarPedido('taza')
+realizarPedido('lapiz')
